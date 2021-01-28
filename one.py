@@ -1,3 +1,3 @@
  Python
- welcome python class
+ welcome python class CICD
  example for soft reset
