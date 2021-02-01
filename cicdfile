@@ -8,7 +8,7 @@ stages{
           }
    stage("Test"){
      steps{
-       echo "app is Test"
+       ech"app is Test
         }
         }
    stage("Deploy"){
