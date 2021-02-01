@@ -21,7 +21,7 @@ post{
 always{
 echo "always execute"
 }
-faiure{
+failure{
 echo "only failure"
 }
 }
