@@ -1,7 +1,7 @@
 pipeline{
 agent any
-stages{
 /*
+stages{
    stage("BUild"){
      steps{
        echo "app is building"
@@ -18,8 +18,9 @@ stages{
        echo "app is Deploying"
        }
        }
-       */
+       
 }
+*/
 post{
 always{
 echo "always execute"
