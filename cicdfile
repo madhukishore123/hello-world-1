@@ -17,4 +17,12 @@ stages{
        }
        }
 }
+post{
+always{
+echo "always execute"
+}
+faiure{
+echo "only failure"
+}
+}
 }
